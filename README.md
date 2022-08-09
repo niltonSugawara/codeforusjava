@@ -1,2 +1,2 @@
 # codeforus
-repositorio que contém alguns projetos
+repositorio de projeto java
